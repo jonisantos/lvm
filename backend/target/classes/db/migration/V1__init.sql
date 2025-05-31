@@ -17,7 +17,7 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
-DROP DATABASE loja_virtual;
+--DROP DATABASE loja_virtual;
 --
 -- TOC entry 2345 (class 1262 OID 82314)
 -- Name: loja_virtual; Type: DATABASE; Schema: -; Owner: postgres
